@@ -1,6 +1,7 @@
 name: Mule Alert Bot
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "*/5 * * * *"
 
