@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 
-WEBHOOK_URL = "여기에 디스코드 웹훅 URL 넣기"
+WEBHOOK_URL = "https://discord.com/api/webhooks/1486040772783505478/TYWSxGxQJdHtk6QBM2cDfN3gdwrHoYSFEF1soHs546PQzqzR3kuZ24KBdL379dR85kvx"
 
 URL = "https://www.mule.co.kr/bbs/market/guitar"
 
